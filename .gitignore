@@ -1,0 +1,17 @@
+*.pdf
+*/data/
+*/demos/
+*/libsvm-3.20/
+**/*.bst
+**/*.out
+**/*.nav
+**/*.log
+**/*.blg
+**/*.bbl
+**/*.aux
+**/*.snm
+**/*.synctex.gz
+**/*.toc
+**/*.sty
+*/references/
+*/scatnet-0.2/
